@@ -29,8 +29,7 @@ header-item2-link: /portfolio/about
 header-item3-link: /portfolio/blogs
 header-item4-link: /portfolio/projects
 cta-item2: Resume
-cta-item2-link: https://twitter.com/AbheejitDadhich?t=wtsEpo1zMJLas6Uiq12R-A&s=09
-
+cta-item2-link: https://drive.google.com/file/d/1a9ooUXmcK6oKyrQvqOr7Vlp8A0st2Dkv/view?usp=drive_link
 ;; ----------------------------------------------------------------
 ;; ***** portfolio Header ends *****
 ;; ----------------------------------------------------------------
@@ -41,7 +40,7 @@ cta-item2-link: https://twitter.com/AbheejitDadhich?t=wtsEpo1zMJLas6Uiq12R-A&s=0
 ;; -----------------------------------------------------
 
 -- toast.stack:
-title: Hello, I'm a Aspiring Java developer Based in India.
+title: Hello, I'm a Aspiring Java programmer Based in India.
 link: https://github.com/Abhijeetdadhich
 
 ;; -----------------------------------------------------
@@ -67,7 +66,7 @@ spacing.fixed.px: 20
 
 
 -- ftd.image:
-src: $assets.files.images.developer.png
+src: $assets.files.images.programmer.png
 width.fixed.px: 250
 align-self: center
 
@@ -79,14 +78,14 @@ firstTitle: I'm
 secondTitle: Abhijeet Dadhich,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: frontend
-secondTitle: developer
+firstTitle: java
+secondTitle: programmer
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: and
 secondTitle: explorer.
 
--- ftd.text: I design and create functional and beautiful applications with passion and a focus on user experience and high quality.
+-- ftd.text: I design UI/UX for creating smooth user Experience and I love creating java programs.
 role: $lib.home-description-responsive-typography
 margin-top.px: 10
 max-width.fixed.px: 700
@@ -116,7 +115,7 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://www.linkedin.com/in/abhijeet-dadhich-227916201/
+link: https://www.linkedin.com/in/abhijeet-dadhich/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
@@ -171,14 +170,14 @@ firstTitle: I'm
 secondTitle:Abhijeet Dadhich,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: frontend
-secondTitle: developer
+firstTitle: java
+secondTitle: programmer
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: and
 secondTitle: explorer.
 
--- ftd.text: I design and create functional and beautiful applications with passion and a focus on user experience and high quality.
+-- ftd.text:  design UI/UX for creating smooth user Experience and I love creating java programs.
 role: $lib.home-description-responsive-typography
 margin-top.px: 10
 max-width.fixed.px: 700
@@ -234,7 +233,7 @@ image: $assets.files.images.mail.png
 -- end: ftd.column
 
 -- ftd.image:
-src: $assets.files.images.developer.png
+src: $assets.files.images.programmer.png
 width.fixed.px: 400
 
 -- end: ftd.row
